@@ -10,7 +10,7 @@ Courses
 <ul>
 <li>Learn Bash by Building a Boilerplate
 <li>Learn Relational Databases by Building a Mario Database
-<li>Celestial Bodies Database
+<li><a href="https://github.com/lajuman/Relational-Database/tree/main/Celestial%20Bodies%20Database">Celestial Bodies Database</a>
 <li>Learn Bash Scripting by Building Five Programs
 <li>Learn SQL by Building a Student Database: Part 1
 <li>Learn SQL by Building a Student Database: Part 2
