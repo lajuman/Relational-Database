@@ -17,7 +17,7 @@ Courses
 <li><a href="https://github.com/lajuman/Relational-Database/tree/main/World%20Cup%20Database">World Cup Database</a>
 <li>Learn Advanced Bash by Building a Kitty Ipsum Translator
 <li>Learn Bash and SQL by Building a Bike Rental Shop
-<li>Salon Appointment Scheduler
+<li><a href="https://github.com/lajuman/Relational-Database/tree/main/Salon%20Appointment%20Scheduler">Salon Appointment Scheduler</a>
 <li>Learn Nano by Building a Castle
 <li>Learn Git by Building an SQL Reference Object
 <li>Periodic Table Database
